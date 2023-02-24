@@ -1,11 +1,11 @@
 ---
 - summary: |
-	# Tets-case №1
+	# Tets-case 1
 	Проверка поиска товара по ключевому слову  
   status: pass
 
 - summary: |
-	# Tets-case №2
+	# Tets-case 2
 	Проверка фильтрации товара по цене, цвету, размеру 
   status: fail
 
@@ -35,6 +35,6 @@
   status: fail
 
 - summary: |
-	# Tets-case №8
+	# Tets-case 8
 	Проверка фильтра категорий товаров на выбор пустого значения
   status: fail
