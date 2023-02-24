@@ -3,7 +3,7 @@
     Test-case 1 - Проверка поиска товара по ключевому слову
   requirement: |
     Пользователь должен иметь возможность искать товары по ключевому слову или категории
-  prerequisites:
+  prerequisites: |
     Открыта главная страница магазина https://hexlet-products-store.vercel.app/
   test-data: |
     Тестируемый магазин https://hexlet-products-store.vercel.app/
@@ -21,7 +21,7 @@
     Открыта главная страница магазина https://hexlet-products-store.vercel.app/
   test-data: |
     Тестируемый магазин https://hexlet-products-store.vercel.app/
-  steps: |
+  steps:
     - Открыть фильтр товаров
     - Выбрать любой цвет товара
     - Выбрать любую цену товара
