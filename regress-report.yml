@@ -32,7 +32,7 @@ bugreports:
 
 - summary: |
     Проверка фильтрации товара по цене, цвету, размеру 
-  enviroment: |
+  environment: |
     Firefox Version 110.0 (64-bit)
     MacOS Version 12.1
   steps-to-reproduce: |
@@ -49,7 +49,7 @@ bugreports:
 
 - summary: |
     Проверка карточки товара и подробной информации о товаре
-  enviroment: |
+  environment: |
     Firefox Version 110.0 (64-bit)
     MacOS Version 12.1
   steps-to-reproduce: |
